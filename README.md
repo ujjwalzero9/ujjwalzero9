@@ -12,7 +12,7 @@
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
 <>- ✔  My Digital Protfolio : 
-- 💻 My Leetcode Profile : https://leetcode.com/amanverma21/
+- 💻 My Leetcode Profile : https://leetcode.com/ujjwalzero9/
 - 💻 My GeeksforGeeks Profile : https://auth.geeksforgeeks.org/user/ujjwalzero9/profile
 - 💻 My CodeChef Profile : https://www.codechef.com/users/ujjwalzero9
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/ujjwalzero9/
@@ -24,13 +24,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&labelColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&labelColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript&labelColor=ffffff)
-![Nestjs](https://img.shields.io/badge/-Nestjs-000000?style=flat&logo=nestjs&labelColor=ffffff)
-![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&labelColor=ffffff)
 
 
 ## 🏆 Github Stats
