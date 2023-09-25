@@ -11,9 +11,8 @@
 
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-<>- ✔  My Digital Protfolio : 
+<!-- ✔  My Digital Protfolio : --> 
 - 💻 My Leetcode Profile : https://leetcode.com/ujjwalzero9/
-- 💻 My GeeksforGeeks Profile : https://auth.geeksforgeeks.org/user/ujjwalzero9/profile
 - 💻 My CodeChef Profile : https://www.codechef.com/users/ujjwalzero9
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/ujjwalzero9/
 
