@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 🙂, I'm Ujjwal Kumar</h1>
-<h3 align="center">Final Year UG Student @ ITER </h3>
+<h3 align="center">SDE - 1 </h3>
 
 <h4 align="center"> Having knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices.</h4>
 
