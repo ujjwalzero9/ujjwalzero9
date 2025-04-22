@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
+<img src="https://komarev.com/ghpvc/?username=ujjwalzero9&style=for-the-badge&color=0077B5" alt="GitHub Profile Views" align="right">
 
 <h3 align="center">I'm a passionate Software Development Engineer (SDE‑1) with 1½ years of experience in backend and full‑stack development. I enjoy building scalable systems and solving real‑world challenges with clean, efficient code.</h3>
 
@@ -102,5 +103,5 @@
 - 💻 [GitHub](https://github.com/ujjwalzero9)
 
 ---
-
+<h2 align="center">⬇️ Check Out My Work ⬇️</h2>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
